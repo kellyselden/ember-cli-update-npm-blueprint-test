@@ -1,0 +1,12 @@
+{
+  "name": "ember-cli-update-npm-blueprint-test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "ember-addon"
+  ],
+  "ember-addon": {
+    "main": "ember-addon-main.js"
+  }
+}
