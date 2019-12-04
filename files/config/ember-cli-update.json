@@ -1,9 +1,0 @@
-{
-  "schemaVersion": "0",
-  "blueprints": [
-    {
-      "name": "ember-cli-update-npm-blueprint-test",
-      "version": "<%= blueprintVersion %>"
-    }
-  ]
-}
