@@ -7,11 +7,5 @@ module.exports = {
     return {
       blueprintVersion: require('./package').version
     };
-  },
-
-  includedCommands() {
-    return {
-      foo: require('./commands/foo'),
-    };
   }
 };
